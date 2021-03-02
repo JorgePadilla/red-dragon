@@ -1,7 +1,4 @@
-# README
-Demo: https://facturacion-testing-rev-w6vq5e.herokuapp.com/
-
-# Project
+# Red Dragon
 
 [red-dragon](https://facturacion-testing-rev-w6vq5e.herokuapp.com/)
 
@@ -40,7 +37,7 @@ bundle && yarn
 
 Using [Figaro](https://github.com/laserlemon/figaro):
 
-See [config/application.yml.sample](https://github.com/juliendargelos/project/blob/master/config/application.yml.sample) and contact the developer: [contact@juliendargelos.com](mailto:contact@juliendargelos.com) (sensitive data).
+See [config/application.yml.sample](https://github.com/config/application.yml.sample) and contact the developer: [jp@gmail.com](mailto:contact@gmail.com) (sensitive data).
 
 ### Initialize the database
 
