@@ -8,7 +8,7 @@
 
 ```shell
 git clone git@github.com:JorgePadilla/red-dragon.git
-cd project
+cd red-dragon
 ```
 
 ### Check your Ruby version
