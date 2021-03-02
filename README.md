@@ -1,5 +1,5 @@
 # README
-Production: https://facturacion-testing-rev-w6vq5e.herokuapp.com/
+Demo: https://facturacion-testing-rev-w6vq5e.herokuapp.com/
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
