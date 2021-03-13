@@ -1,0 +1,1 @@
+json.extract! invoice, :id, :title, :user_id, :complete, :created_at, :updated_at
